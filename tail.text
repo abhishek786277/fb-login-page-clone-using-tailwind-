@@ -1,0 +1,6 @@
+custom tailwind
+text-lg predefined class
+text-[50px] custom class 
+
+tailwind config
+suppose you have to change he color but you have to apply at so many div. how to do it easily. tailwind config saves the day
